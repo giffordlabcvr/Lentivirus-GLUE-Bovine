@@ -1,0 +1,5 @@
+
+  # Build species-level extension projects
+  
+  # Bovine lentiviruses
+  run file glue/build/virus/extension/biv/buildLentiExtensionBiv.glue

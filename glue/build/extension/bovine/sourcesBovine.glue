@@ -1,0 +1,6 @@
+ 
+  # Import GenBank sequences 
+  import source sources/virus/extension/bovine/ncbi-refseqs-bovine/
+  import source sources/virus/extension/bovine/ncbi-curated-biv/
+  import source sources/virus/extension/bovine/ncbi-curated-jdv/
+

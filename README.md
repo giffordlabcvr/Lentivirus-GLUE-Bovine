@@ -2,7 +2,7 @@
 
 <img src="md/cow-droplet.jpg" align="right" alt="" width="280" />
 
-Welcome to the GitHub repository for **Lentivirus-GLUE-SRLV**: an extension to **[Lentivirus-GLUE](https://github.com/giffordlabcvr/Lentivirus-GLUE)**.
+Welcome to the GitHub repository for **Lentivirus-GLUE-Bovine**: an extension to **[Lentivirus-GLUE](https://github.com/giffordlabcvr/Lentivirus-GLUE)**.
 
 Bovine lentiviruses include bovine immunodeficiency virus (BIV) and Jembrana disease virus (JDV). 
 

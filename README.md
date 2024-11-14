@@ -1,6 +1,6 @@
 ## Bovine Lentivirus Extension to Lentivirus-GLUE
 
-<img src="md/cow-droplet.png" align="right" alt="" width="280" />
+<img src="md/cow-droplet.png" align="right" alt="" width="250" />
 
 Welcome to the GitHub repository for **Lentivirus-GLUE-Bovine**: an extension to **[Lentivirus-GLUE](https://github.com/giffordlabcvr/Lentivirus-GLUE)**.
 
